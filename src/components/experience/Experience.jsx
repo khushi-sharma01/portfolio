@@ -8,7 +8,7 @@ const items = [
   {
     id: 1,
     title: "SDE-intern",
-    img: "/public/internnuminfo.png",
+    img: "internnuminfo.png",
     desc: (
       <>
         Numeric Infosystem Pvt Ltd (JUNE 2023)

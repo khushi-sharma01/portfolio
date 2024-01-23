@@ -14,10 +14,10 @@ const Navbar = () => {
             animate={{opacity:1,scale:1}} 
             transition={{duration:0.5}}></motion.span>
             <div className="social">
-                <a href="https://github.com/khushi-shrama" target="_blank"><img src="/github.png"></img></a>
-                <a href="https://www.linkedin.com/in/khushisharma11/"  target="_blank"><img src="/linkedin.png"></img></a>
-                <a href="#" target="_blank"><img src="/instagram.png"></img></a>
-                <a href="#" target="_blank"><img src="/youtube.png"></img></a>
+                <a href="https://github.com/khushi-shrama" target="_blank"><img src="github.png"></img></a>
+                <a href="https://www.linkedin.com/in/khushisharma11/"  target="_blank"><img src="linkedin.png"></img></a>
+                <a href="#" target="_blank"><img src="instagram.png"></img></a>
+                <a href="#" target="_blank"><img src="youtube.png"></img></a>
                 
             </div>
         </div>
