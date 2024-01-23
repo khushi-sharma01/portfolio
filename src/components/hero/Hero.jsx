@@ -1,3 +1,4 @@
+import { useHref } from "react-router-dom";
 import Contact from "../contact/Contact";
 import "./hero.scss"
 import { motion } from "framer-motion";
@@ -49,8 +50,9 @@ const Hero = () => {
           animate="animate">
   <motion.h2 variants={textVariants}>Khushi Sharma</motion.h2>
 <motion.h1 variants={textVariants}>FULL-Stack  DEVELOPER</motion.h1>
-<motion.div className="buttons" variants={textVariants}>
-    <button>Download Resume</button>
+<motion.div className="buttons" variants={textVariants}><button onClick={() => window.open("https://drive.google.com/file/d/1muPz3wW7T-Eu_2pwI2VrFnpuAv0f3kMN/view?usp=sharing", "_blank")}>Download Resume</button>
+
+
     {/* <button onClick={Contact()}>Contact me</button> */}
 
         </motion.div>
