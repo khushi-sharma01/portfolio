@@ -48,7 +48,7 @@ const Hero = () => {
           initial="initial"
           animate="animate">
   <motion.h2 variants={textVariants}>Khushi Sharma</motion.h2>
-<motion.h1 variants={textVariants}>MERN-Stack  DEVELOPER</motion.h1>
+<motion.h1 variants={textVariants}>FULL-Stack  DEVELOPER</motion.h1>
 <motion.div className="buttons" variants={textVariants}>
     <button>Download Resume</button>
     {/* <button onClick={Contact()}>Contact me</button> */}
