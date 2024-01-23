@@ -8,13 +8,13 @@ const items = [
   {
     id: 1,
     title: "MedBazzar",
-    img: "/public/meddbazzar.png",
+    img: "meddbazzar.png",
      desc: "It is an ecommerce built using Node.js and React, offers a user-friendly experience. Featuring admin and user interfaces, and backed by MySQL for robust database management, it provides a seamless online solution for ordering prescription medicines and healthcare products.",
   },
   {
     id: 2,
     title: "E-Vaidya",
-    img: "/public/e-vaidya.png",
+    img: "e-vaidya.png",
     desc: "E-Vaidya is a comprehensive online doctor appointment system, featuring interfaces for administrators, users, and doctors. Developed using the MERN stack (MongoDB, Express.js, React, Node.js), this platform facilitates seamless interactions. Experience a modern solution for scheduling medical appointments, ensuring efficient healthcare services.",
     demolink: "https://evaidya-kb.onrender.com/",
     githublink: "https://github.com/khushi-shrama/Production-Doctor-Appointment-system"
@@ -23,7 +23,7 @@ const items = [
   {
     "id": 3,
     "title": "Flex-Fit",
-    "img": "/public/flexfit.png",
+    "img": "flexfit.png",
     "desc": "Flex-Fit is a Kotlin-based mobile application that revolutionizes your fitness routine. Calculate your BMI, track exercise history, and engage in guided workouts. The app features a dynamic timer for seamless transitions between exercises and rest intervals. Elevate your fitness journey with Flex-Fit – your personalized companion for a healthier lifestyle.",
     githublink:"https://github.com/khushi-shrama/Flex-Fit/tree/master/app",
     
@@ -32,7 +32,7 @@ const items = [
 {
   id: 4,
   title: "VKS ShopSMART",
-  img: "/public/vpk.png",
+  img: "vpk.png",
   desc: "VIPIN Kirana Store - Your One-Stop Online Grocery Shopping Solution! At VIPIN Kirana Store, we are revolutionizing the way you shop for groceries. Our full-stack website combines cutting-edge technology with the comfort of your local neighborhood store, technologies used are ReactJS, Node JS, Express JS",
   demolink: "https://vipinkirana.in/",
   
