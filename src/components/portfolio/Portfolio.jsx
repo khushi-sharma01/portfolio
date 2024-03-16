@@ -9,7 +9,7 @@ const items = [
     id: 1,
     title: "MedBazzar",
     img: "meddbazzar.png",
-     desc: "It is an ecommerce built using Node.js and React, offers a user-friendly experience. Featuring admin and user interfaces, and backed by MySQL for robust database management, it provides a seamless online solution for ordering prescription medicines and healthcare products.",
+     desc: "It is an e-commerce built using Node.js and React, offers a user-friendly experience. Featuring admin and user interfaces, and backed by MySQL for robust database management, it provides a seamless online solution for ordering prescription medicines and healthcare products.",
   },
   {
     id: 2,
